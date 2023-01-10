@@ -1,0 +1,15 @@
+C:\Users\master\source\repos\Ejercicio Fizz Fuzz\Ejercicio Fizz Fuzz\bin\Debug\net6.0\Ejercicio Fizz Fuzz.exe
+C:\Users\master\source\repos\Ejercicio Fizz Fuzz\Ejercicio Fizz Fuzz\bin\Debug\net6.0\Ejercicio Fizz Fuzz.deps.json
+C:\Users\master\source\repos\Ejercicio Fizz Fuzz\Ejercicio Fizz Fuzz\bin\Debug\net6.0\Ejercicio Fizz Fuzz.runtimeconfig.json
+C:\Users\master\source\repos\Ejercicio Fizz Fuzz\Ejercicio Fizz Fuzz\bin\Debug\net6.0\Ejercicio Fizz Fuzz.dll
+C:\Users\master\source\repos\Ejercicio Fizz Fuzz\Ejercicio Fizz Fuzz\bin\Debug\net6.0\Ejercicio Fizz Fuzz.pdb
+C:\Users\master\source\repos\Ejercicio Fizz Fuzz\Ejercicio Fizz Fuzz\obj\Debug\net6.0\Ejercicio Fizz Fuzz.csproj.AssemblyReference.cache
+C:\Users\master\source\repos\Ejercicio Fizz Fuzz\Ejercicio Fizz Fuzz\obj\Debug\net6.0\Ejercicio Fizz Fuzz.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\master\source\repos\Ejercicio Fizz Fuzz\Ejercicio Fizz Fuzz\obj\Debug\net6.0\Ejercicio Fizz Fuzz.AssemblyInfoInputs.cache
+C:\Users\master\source\repos\Ejercicio Fizz Fuzz\Ejercicio Fizz Fuzz\obj\Debug\net6.0\Ejercicio Fizz Fuzz.AssemblyInfo.cs
+C:\Users\master\source\repos\Ejercicio Fizz Fuzz\Ejercicio Fizz Fuzz\obj\Debug\net6.0\Ejercicio Fizz Fuzz.csproj.CoreCompileInputs.cache
+C:\Users\master\source\repos\Ejercicio Fizz Fuzz\Ejercicio Fizz Fuzz\obj\Debug\net6.0\Ejercicio Fizz Fuzz.dll
+C:\Users\master\source\repos\Ejercicio Fizz Fuzz\Ejercicio Fizz Fuzz\obj\Debug\net6.0\refint\Ejercicio Fizz Fuzz.dll
+C:\Users\master\source\repos\Ejercicio Fizz Fuzz\Ejercicio Fizz Fuzz\obj\Debug\net6.0\Ejercicio Fizz Fuzz.pdb
+C:\Users\master\source\repos\Ejercicio Fizz Fuzz\Ejercicio Fizz Fuzz\obj\Debug\net6.0\Ejercicio Fizz Fuzz.genruntimeconfig.cache
+C:\Users\master\source\repos\Ejercicio Fizz Fuzz\Ejercicio Fizz Fuzz\obj\Debug\net6.0\ref\Ejercicio Fizz Fuzz.dll
